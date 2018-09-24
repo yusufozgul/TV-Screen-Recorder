@@ -1,0 +1,9 @@
+Package: com.yusufozgul.tvpluscaptureenabler
+Name: TV+ Screenrecorder Enabled
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tv+ ekran kaydetmeyi etkinleştirin
+Maintainer: Yusuf Özgül
+Author: Yusuf Özgül
+Section: Tweaks
